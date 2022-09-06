@@ -29,11 +29,11 @@
 
     {"tag": "joke",
     "patterns": ["Tell me the joke", "Say something funny", "I want to hear the joke", "Tell me something funny"],
-    "responses": ["I am sleeping with your mom", "Bair likes dicks"]
+    "responses": ["2 + 2 = 5",]
     },
     {"tag": "statement",
         "patterns": ["I am hungry", "I am tired", "You are bot", "You are not alive", "I am human"],
-        "responses": ["I dont give a fuck", "Well, fine", "Take care of your self your own"]
+        "responses": ["Well, fine", "Take care of your self your own"]
     },
     
    
@@ -44,7 +44,7 @@
     },
     {"tag": "russian",
         "patterns": ["ti govorish po russki", "po russki", "russkii"],
-        "responses": ["Suka blyat"]
+        "responses": ["net"]
     }
 
 
